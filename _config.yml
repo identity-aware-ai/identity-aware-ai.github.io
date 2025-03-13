@@ -20,7 +20,7 @@ theme: jekyll-theme-cayman
 # Site Settings
 locale                   : "en"
 baseurl                  : ""
-title                    : "Identity Aware AI 2025"
+title                    : "Identity-Aware AI 2025"
 title_separator          : "-"
 name                     : "IdentityAwareAI"
 description              : "In conjunction with ECAI 2025" 
@@ -60,7 +60,7 @@ naver_site_verification  :
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: acl2025-srw@googlegroups.com
-  github: acl2025-srw
-  twitter: acl_srw
+  email: identity-aware-ai@googlegroups.com
+  github: identity-aware-ai.github.io
+  twitter: 
   

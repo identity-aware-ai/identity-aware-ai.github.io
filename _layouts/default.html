@@ -7,51 +7,22 @@
     {% include page-header.html %}
 
     {% capture nowdate %}{{'now' | date: '%s' | minus: 86400 }}{% endcapture %}
-    {% capture presubmen %}{{'Mar 27 2025' | date: '%s'}}{% endcapture %}
-    {% capture presubfeed %}{{'May 1 2025' | date: '%s'}}{% endcapture %}
-    {% capture sub %}{{'May 18 2025' | date: '%s'}}{% endcapture %}
-    {% capture revdue %}{{'June 6 2025' | date: '%s'}}{% endcapture %}
-    {% capture not %}{{'Jun 21 2025' | date: '%s'}}{% endcapture %}
-    {% capture cam %}{{'Jul 1 2025' | date: '%s'}}{% endcapture %}
-    {% capture workshop %}{{'Jul 28 - 30 2025' | date: '%s'}}{% endcapture %}
+    {% capture sub %}{{'Aug 29 2025' | date: '%s'}}{% endcapture %}
+    {% capture not %}{{'Sep 26 2025' | date: '%s'}}{% endcapture %}
+    {% capture cam %}{{'Oct 5 2025' | date: '%s'}}{% endcapture %}
+    {% capture workshop %}{{'Oct 25 2025' | date: '%s'}}{% endcapture %}
 
     <section class="main-content">
       <div id="side-table-wrapper" style="float:right; width:310px; font-size: small">
         <h4 id="side-table-header">Important Dates</h4>
         <table id="important-dates" class="table table-condensed">
           <tbody>
-            <tr><td>Pre-submission mentorship application</td>
-              <td>
-                {% assign datediff = presubmen | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
-                {% if presubmen < nowdate %} <strike> <font color="grey">{% endif %}
-                {% if datediff < 30 and datediff > -1 %} </font><font color="red"> {% endif %}
-                {{ presubmen | date: "%b %-d (%a), %Y" }}</font>
-              </td>
-            </tr>
-            <tr><td>Pre-submission mentorship feedback</td>
-              <td>
-
-                {% if presubfeed < nowdate %} <strike> <font color="grey">{% endif %}
-                {% assign datediff = presubfeed | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
-                {% if datediff < 30  and datediff > -1 %} </font><font color="red"> {% endif %}
-                {{ presubfeed | date: "%b %-d (%a), %Y" }}</font>
-              </td>
-            </tr>
             <tr><td>Submission deadline</td>
               <td>
-
                 {% if sub < nowdate %} <strike> <font color="grey">{% endif %}
                 {% assign datediff = sub | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
                 {% if datediff < 30  and datediff > -1 %} </font><font color="red"> {% endif %}
                 {{ sub | date: "%b %-d (%a), %Y" }}</font>
-              </td>
-            </tr>
-            <tr><td>Reviews due</td>
-              <td>
-                {% if revdue < nowdate %} <strike> <font color="grey">{% endif %}
-                {% assign datediff = revdue | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
-                {% if datediff < 30  and datediff > -1 %} </font><font color="red"> {% endif %}
-                {{ revdue | date: "%b %-d (%a), %Y" }}</font>
               </td>
             </tr>
             <tr><td>Acceptance notification</td>
@@ -71,7 +42,7 @@
               </td>
             </tr> 
             <tr><td>Workshop</td>
-              <td>July 28-Aug 1st (With Main Conference)</td>
+              <td>October 25, 2025</td>
             </tr>
             <tr></tr> 
             
@@ -80,25 +51,21 @@
             </tr>
           </tbody></table>
 
-        <!-- <h4 id="side-table-header">SRW is sponsored by</h4> -->
+        <!-- <h4 id="side-table-header">Workshop is sponsored by</h4> -->
 
         <!-- <table id="sponsors" class="table table-condensed">
           <tbody>
             <tr><td>
-              <a href="https://cra.org/ccc/" target="blank">
-                <img src="{{ site.baseurl }}/images/ccc_vt.png" alt="Computing Community Consortium">
+              <a href="#" target="blank">
+                <img src="{{ site.baseurl }}/images/sponsor1.png" alt="Sponsor 1">
               </a>
             <tr><td>
-              <a href="https://www.nsf.gov/" target="blank">
-                <img src="{{ site.baseurl }}/images/NSF_4-Color_bitmap_Logo.png" alt="National Science Foundation">
+              <a href="#" target="blank">
+                <img src="{{ site.baseurl }}/images/sponsor2.png" alt="Sponsor 2">
               </a>
             </td></tr>
           </tbody>
         </table> -->
-<!--         <h4 id="side-table-header">Follow Us on Twitter!</h4>
-        <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: inline-block; width: 100%; padding: 0px; border: none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px; min-height: 200px; height: 6195.3px;" data-widget-id="profile:naacl_srw" title="Twitter Timeline"></iframe>
-
-        <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
       </div>
       <!-- ===================================== -->
@@ -109,4 +76,4 @@
     </section>
 
   </body>
-</html>
+</html> 

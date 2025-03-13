@@ -1,128 +1,77 @@
 ---
 layout: page
-title: "Call For Papers: ACL 2025 Student Research Workshop"
+title: "Call For Papers: Identity-Aware AI 2025"
 permalink: /cfp
 order : 1
 ---
 
-# Call for Papers
+# Call for Papers: Identity-Aware AI 2025
+## Ethical and Technical Challenges for Identity-Aware AI
+Workshop theme: What makes each of us unique, and which ethical and technical challenges does this imply?
 
-Student Research Workshop co-located with ACL 2025 in Vienna, Austria.
+## Overview
+What makes us unique? Language (and thus the automatic processing of it) is about people and what they mean. However, current practice relies on the assumptions that the involved humans are all the same, and that if enough data (and compute power) is present, the resulting generalizations will be robust enough and represent the majority.
 
-Main Conference: July 27 to August 1, 2025
+This approach often harms marginalized communities and ignores the notion of identity in models and systems. Our interdisciplinary workshop aims to raise the question of "what makes each of us unique?" to the AI community. We seek to gather researchers from diverse fields to understand how the identities of all stakeholders — e.g., the individuals projecting their views in texts, the individuals perceiving the texts, the individuals mentioned and those not mentioned in the texts — should be considered in future research in AI.
 
-***Paper Submission Deadline: May 18th, 2025***
+## Workshop Goals
+- The development of a shared and interdisciplinary understanding of identities and how identity is treated in AI.
+- The development of new methods that push the effective, fair, and inclusive treatment of individuals in AI to the next level.
 
-Submission link for the workshop is now available [here](https://openreview.net/group?id=aclweb.org/ACL/2025/SRW&referrer=%5BHomepage%5D(%2F)#tab-recent-activity)
+## Topics of Interest
+We invite submissions on the following topics:
 
-## About the Student Research Workshop
+- Approaches to model subjective phenomena: Personalization and perspectivist methods that leverage disaggregated labeled data, encoding annotator metadata on their beliefs, moral values, sociodemographic features, or personal narratives. ML methods to address the challenges of "learning from disagreements" both from the development of new models and the collection of data to train such models.
+- Methods for detecting and controlling bias in models and data: Techniques to audit fairness, enforce fairness constraints, and learn fair representation from data, in order to enhance the fairness of models while maintaining their predictive reliability. Ethical challenges for LLMs in identity-aware dialog and tasks: diversity, stereotypes, harms.
+- The role of sociodemographics in LLMs: Such as which characteristics (and disagreements) they embody and how to measure their capacity for representing and reasoning about diverse types of identities.
+- Challenges for applying AI methods to model socio-political phenomena: Including polarization, impact of media consumption on public opinion formation, agenda setting, deliberation support, and how integrating identity into AI methods can influence the accuracy for these tasks.
+- NLP work at the intersection with social psychology: The methodological foundation for quantitative investigation of identity-related topics. The reflection on best practices to reliably measure complex constructs such as morals and values. Detection and analysis of personal narratives across cultures.
+- Accountability of AI in the eye of the general public: The role of LLMs, and the responsibilities of AI and NLP developers for ethical use of identities.
 
-The ACL 2025 Student Research Workshop (SRW) is a forum to bring together students investigating various areas of Computational Linguistics, Natural Language Processing and Machine Learning. The workshop provides an excellent opportunity for participants to present their work and to receive mentorship and valuable feedback from the international research community.
+## Submission Types
+We welcome the following types of submissions:
 
-The workshop’s goal is to aid students at multiple stages of their education, including highschool, undergraduate, MSc/MA, junior and senior PhD students, in getting familiar with conducting and presenting their research.
+- Long papers: Up to 8 pages (excluding references)
+- Short papers: Up to 4 pages (excluding references)
+- Position papers: Up to 4 pages (excluding references)
+- Non-archival submissions and research communications
+- PhD project presentations: Special session for doctoral students to receive feedback from our interdisciplinary community
 
-We are recruiting mentors to give feedback and guidance on student papers! (It will begin in May, 2025,
-More Information [here](https://acl2025-srw.github.io/mentoring).) Please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLScX5CVH3o5_cSvuJvNZJADX1_Mw6PeOu5Mm6tLifQCBNHHZcA/viewform) if you are interested!
+## Submission Guidelines
+- All submissions will be double-blind reviewed
+- Submissions should follow ECAI formatting guidelines
+- Submit your paper through OpenReview: [https://openreview.net](https://openreview.net)
+- Accepted papers will be published in the workshop proceedings through CEUR
 
-Also, we are seeking reviewers. If you are interested, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfHqPd2XH23iTxnvkNA5nNamKVbtQSDF-ZhTbKZvM1ZKVSXrA/viewform).
+## Workshop Format
+The workshop will be a full-day event featuring:
 
-Follow us on [X/Twitter](https://x.com/acl_srw) for the latest updates!
+- Keynote speeches from leading experts in the field
+- Paper presentations (oral and lightning talks)
+- Participatory design activity to develop a shared interdisciplinary vocabulary, identify current gaps in datasets for studying identity, and design a vision for collecting new datasets
+- Special PhD project session
 
-## General Rules for Submission
-
-We invite papers in two different categories:
-
-- Thesis Proposals: This category is appropriate for PhD students who have decided on a thesis topic and wish to get feedback on their proposal and broader ideas for their continuing work.
-- Research Papers: Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author **MUST BE** a current student (high school, graduate, or undergraduate). Topics of interest for the SRW are the same as for the main <a href="https://2025.aclweb.org/calls/main_conference_papers/">ACL 2025 conference</a>.
-
-Submissions (in both categories) may be archival or non-archival, based on the wish of the authors. All archival papers will be published in the ACL 2025 SRW Proceedings. Non-archival papers may be submitted to any venue in the future except for another SRW.
-
-## Why Submit to ACL SRW?
-
-There are many good reasons to submit to the ACL SRW, such as:
-
-- Mentorship program: ACL SRW provides a unique opportunity for students to receive constructive feedback and to improve their work through a pre-submission mentorship program.
-- Improving your publication record: publishing a paper as an undergraduate or as a MSc/MA student is beneficial when applying for a PhD program. Publishing a paper in an ACL SRW workshop can be really helpful for improving students’ publication record.
-- Explorative Studies: We encourage the submission of studies with positive and negative results providing insights on why and in which scenarios a particular method succeeds and fails.
-
-All accepted papers and thesis proposals will be presented either as oral presentations or during poster sessions, which will give students an opportunity to interact with and to present their work to a large and diverse audience, including top researchers in the field and assigned mentors.
-
-## Pre-Submission Mentorship Program
-
-The SRW offers students the opportunity to receive feedback prior to submitting their work for review. The goal of the pre-submission mentorship program is to improve the quality of writing and presentation of the student's work, not to critique the work itself. Participation is optional but encouraged. The pre-submission mentorship is not anonymous.
-
-Students wishing to participate in the pre-submission mentorship must submit their paper draft by March 27, 2025.
-
-Note that even though the mentoring is not done anonymously, the paper needs to be anonymized. We will check for the formality of the paper including formatting before we match it with mentors.
-
-The participants will be assigned a mentor who will review and will provide feedback within four weeks. This mentor will not be the same person who will review the final submission. The feedback will be in the form of guidelines and suggestions to improve the overall writing, which should ideally be incorporated before the actual submission deadline.
-
-You CAN submit a paper at the SRW submission deadline even if you did not participate in the pre-submission mentoring. If you did submit a draft for pre-submission mentoring, you will need to make a new submission for the final version of the paper. The submission website will have separate tracks for pre-submission mentorship and the final paper submission.
-
+We are committed to ensuring that our workshop is accessible to all. The workshop will be held in a hybrid format, allowing both in-person and virtual participation.
 
 ## Important Dates
+- Submissions: 22 August (Extension 29 August)
+- Notifications: 26 September
+- Camera-ready: Oct 3 (extension to Oct 5-6)
+- Workshop: Oct 25
 
-- Pre-submission mentoring deadline: March 27, 2025
+## Diversity & Inclusion
+We actively encourage submissions from underrepresented communities and countries. The workshop organizers will provide mentorship and thorough feedback, especially to first-time authors and reviewers.
 
-- Pre-submission feedback: May 1, 2025
+## Organizers
+- Pranav A (University of Hamburg)
+- Valerio Basile (University of Turin)
+- Neele Falk (University of Stuttgart)
+- David Jurgens (University of Michigan)
+- Gabriella Lapesa (GESIS, Leibniz Institute for the Social Sciences & Heinrich-Heine University of Düsseldorf)
+- Anne Lauscher (University of Hamburg)
+- Soda Marem Lo (University of Turin)
 
-- Paper submission deadline: May 18, 2025
+## Contact
+For queries, please contact: [identity-aware-ai@googlegroups.com](mailto:identity-aware-ai@googlegroups.com)
 
-- Review deadline: June 6, 2025
-
-- Acceptance notifications: June 21, 2025
-
-- Camera-ready deadline: July 1, 2025
-
-- ACL 2025 conference dates: July 27-Aug 1st, 2025
-
-All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth")
-
-## Submission Requirements
-
-We accept both archival submissions (which will be included in the conference proceedings) and non-archival submissions (which will be presented at the workshop but will not be included in the proceedings).
-
-All submissions (archival and non-archival) must follow the anonymity period and the restrictions of the main conference.
-
-Long papers consist of up to eight (8) pages of content, plus an unlimited number of pages for references and supplementary material like the appendix. Upon acceptance, papers will be given one additional page of content (up to 9 pages).
-
-Short papers consist of up to four (4) pages of content, plus an unlimited number of pages for references and supplementary material like the appendix. Upon acceptance, papers will be given one additional page of content (up to 5 pages).
-
-Authors are encouraged to use the additional page to address reviewers’ comments.
-Paper submissions must use the official ACL style templates, which are available as an <a href="https://www.overleaf.com/read/crtcwgxzjskr">Overleaf template</a> and also a <a href="https://github.com/acl-org/ACLPUB/tree/master/templates">downloadable directly</a> (Latex and Word). We strongly encourage participants to use the Latex template. All submissions must be in PDF format and must conform to the official style guidelines, which are contained in these template files. The review process will be double-blind, and thus all submissions must be anonymized.
-The SRW invites papers on topics related to computational linguistics, including but not limited to the following:
-
-- Computational Social Science and Social Media
-- Dialogue and Interactive Systems
-- Discourse and Pragmatics
-- Ethics and NLP
-- Information Extraction
-- Information Retrieval and Text Mining
-- Interpretability and Analysis of Models for NLP
-- Language Grounding to Vision, Robotics, and Beyond
-- Large Language Models
-- Linguistic Theories, Cognitive Modeling, and Psycholinguistics
-- Machine Learning for NLP
-- Machine Translation and Multilinguality
-- NLP Applications
-- Phonology, Morphology, and Word Segmentation
-- Question Answering
-- Resources and Evaluation
-- Semantics: Lexical
-- Semantics: Sentence-level Semantics, Textual - Inference, and Other Areas
-- Sentiment Analysis, Stylistic Analysis, and Argument Mining
-- Speech and Multimodality
-- Summarization
-- Syntax: Tagging, Chunking, and Parsing
-- Thesis Proposals
-
-## Grants
-
-We expect to have grants to offset some portion of students' travel, conference registration, and accommodation expenses. Further details will be posted on the SRW website.
-To contact the organizers of the workshop, please email us at: [acl2025-srw@googlegroups.com](mailto:acl2025-srw@googlegroups.com)
-
-## Student Research Workshop Chairs
-
-- [Zhu Liu](https://juniperliuzhu.netlify.app/), Tsinghua University (China)
-- [Mingyang Wang](https://mingyang-wang26.github.io/), LMU Munich (Germany)
-- [Jin Zhao](https://jinzhao3611.github.io/), Brandeis University (USA)
+Join us at Identity-aware AI 2025 to contribute to this important conversation!
