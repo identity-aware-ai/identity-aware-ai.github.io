@@ -51,8 +51,8 @@ We welcome the following types of submissions:
 
 ## Submission Guidelines
 - All submissions will be double-blind reviewed
-- Submissions should follow ECAI formatting guidelines
-- Submit your paper through EasyChair: [https://easychair.org/conferences/?conf=identityawareai2025](https://easychair.org/conferences/?conf=identityawareai2025)
+- Submissions should follow [ECAI formatting guidelines](https://www.ecai2024.eu/calls/main-track) with the latex template [here](https://ecai2024.eu/download/ecai-template.zip)
+- Submit your paper through [EasyChair](https://easychair.org/conferences/?conf=identityawareai2025)
 - Accepted papers will be published in the workshop proceedings through CEUR
 
 ## Workshop Format
