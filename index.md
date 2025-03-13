@@ -29,24 +29,16 @@ Contact us via email at [identity-aware-ai@googlegroups.com](mailto:identity-awa
 ---
 
 ## Important Dates
-- Submissions: 22 August (Extension 29 August)
+- Submissions: 22 August 
 - Notifications: 26 September
-- Camera-ready: Oct 3 (extension to Oct 5-6)
-- Workshop: Oct 25
+- Camera-ready: 3 October 
+- Workshop: 25 October 
 
 ---
 
 ## Anti-Harassment Policy
-The Identity-Aware AI 2025 workshop adheres to the [ECAI anti-harassment policy](https://ecai2025.eu/code-of-conduct/). Please contact any current member of the organizing committee or [workshop email](mailto:identity-aware-ai@googlegroups.com) if you face any harassment or hostile behavior.
+The Identity-Aware AI 2025 workshop adheres to the ECAI anti-harassment policy. Please contact any current member of the organizing committee or [workshop email](mailto:identity-aware-ai@googlegroups.com) if you face any harassment or hostile behavior.
 
-<!-- # Sponsored By        -->
-<!-- ![Computing Research Association's Computing Community Consortium (CCC)](images/ccc_hz copy.jpg)
-![National Science Foundation](images/NSF_4-Color_bitmap_Logo.png =250x)
- -->
-<!-- <img src="images/ccc_hz copy.jpg" alt="Computing Research Association's Computing Community Consortium (CCC)" width="300"/>
-<img src="images/NSF_4-Color_bitmap_Logo.png" alt="National Science Foundation" width="200"/>
-<img src="images/nrc_canada_logo.png" alt="National Research Council, Canada" width="250" style="padding: 0 0 0 40px"/>
-<img src="images/google_logo.svg" alt="Google" width="250" style="padding: 0 0 0 40px"/> -->
 
 
 
