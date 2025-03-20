@@ -18,7 +18,7 @@ __A:__ All submissions should follow the ECAI formatting guidelines. Long papers
 __A:__ Yes, all submissions will be double-blind reviewed, so please ensure your paper is properly anonymized.
 
 #### Q: What types of submissions are you looking for?
-__A:__ We welcome research papers, position papers, and PhD project presentations that address the ethical and technical challenges of identity-aware AI. Please see our Call for Papers for the full list of topics.
+__A:__ We welcome research papers, project presentations and creative work that address the ethical and technical challenges of identity-aware AI. Please see our Call for Papers for the full list of topics.
 
 #### Q: Is there financial support available for attending the workshop?
 __A:__ Information about potential travel grants will be announced closer to the workshop date.

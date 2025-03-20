@@ -27,14 +27,14 @@ We invite submissions on the following topics:
 - **Challenges for applying AI methods to model socio-political phenomena:** Including polarization, impact of media consumption on public opinion formation, agenda setting, deliberation support, and how integrating identity into AI methods can influence the accuracy for these tasks.
 - **NLP work at the intersection with social psychology:** The methodological foundation for quantitative investigation of identity-related topics. The reflection on best practices to reliably measure complex constructs such as morals and values. Detection and analysis of personal narratives across cultures.
 - **Accountability of AI in the eye of the general public:** The role of LLMs, and the responsibilities of AI and NLP developers for ethical use of identities.
+- **NLP work at the intersection of survey science:** The use of LLMs to model and simulate individuals and subpopulations; the role of LLMs in personalizing information elicitation; and methodological approaches to address data contamination and response validation when LLMs are used by either researchers or respondents.
 
 ## Submission Types
 We welcome the following types of submissions:
 
 - Long papers: Up to 8 pages (excluding references)
 - Short papers: Up to 4 pages (excluding references)
-- Position papers and extended abstracts: Up to 4 pages (excluding references)
-- Non-archival submissions, PhD project presentations, mixed-media submissions: No page limit
+- Non-archival submissions, student project presentations, mixed-media submissions: No page limit
   - For non-archival submissions, we welcome creative formats including:
     - Art, poetry, music
     - Blog posts
@@ -61,7 +61,7 @@ The workshop will be a half-day event featuring:
 - Keynote speeches from leading experts in the field
 - Paper presentations (oral and lightning talks)
 - Participatory design activity to develop a shared interdisciplinary vocabulary, identify current gaps in datasets for studying identity, and design a vision for collecting new datasets
-- Special PhD project session
+- Special student project session
 
 We are committed to ensuring that our workshop is accessible to all. The workshop will be held in a hybrid format, allowing both in-person and virtual participation.
 
