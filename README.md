@@ -114,7 +114,3 @@ This website is automatically deployed using GitHub Pages:
 - If the website doesn't build correctly, check the GitHub Actions logs for errors.
 - For local development issues, check the Jekyll server output for error messages.
 - Make sure all Markdown files have the correct front matter (the YAML section at the top).
-
-## Contact
-
-For questions or issues with the website, please contact [identity-aware-ai@googlegroups.com](mailto:identity-aware-ai@googlegroups.com). 
