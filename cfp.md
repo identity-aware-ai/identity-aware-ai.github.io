@@ -66,7 +66,7 @@ The workshop will be a half-day event featuring:
 We are committed to ensuring that our workshop is accessible to all. The workshop will be held in a hybrid format, allowing both in-person and virtual participation.
 
 ## Important Dates
-- Submissions: 22 August 
+- Submissions: 29 August 
 - Notifications: 26 September
 - Camera-ready: 3 October 
 - Workshop: 25 October 
