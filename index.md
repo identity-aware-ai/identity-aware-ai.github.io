@@ -29,7 +29,7 @@ Contact us via email at [identity-aware-ai@googlegroups.com](mailto:identity-awa
 ---
 
 ## Important Dates
-- Submissions: 29 August 
+- Submissions: 29 August (extended)
 - Notifications: 26 September
 - Camera-ready: 3 October 
 - Workshop: 25 October 
