@@ -6,6 +6,26 @@ order : 1
 ---
 
 # Author Guidelines
+
+## Camera-Ready Submission Guidelines
+
+- __Deadline__: Camera-ready submissions are due by 17 October 2025 (extended).
+- __Template__: All accepted papers must be prepared using the CEUR-WS `ceurart` LaTeX template. Please review the official guidance and requirements here: [CEUR-WS — HOW TO SUBMIT](https://ceur-ws.org/HOWTOSUBMIT.html).
+- __Template link__: Use the provided overleaf link to update your manuscript to the CEUR format: [LaTeX template (ShareLaTeX/Overleaf)](https://sharelatex.gwdg.de/read/rmmhkszmktpm#4301dc).
+- __What to upload__: Submit the following as your camera-ready package via the camera-ready revision on OpenReview:
+  - Final paper PDF compiled from the CEUR `ceurart` template.
+  - Signed author agreement as a PDF. The blank form is available in this repository at [`agreement.pdf`](/agreement.pdf). One signed agreement per paper is required.
+- __Checklist before uploading__:
+  - Verify authors, affiliations, title, and abstract are final and correct.
+  - Ensure the paper compiles without errors and all fonts are embedded in the PDF.
+  - Confirm figures/tables are legible and references are resolved.
+
+If you have questions about the CEUR style, please refer to the official instructions above. For any workshop-specific questions, contact the organizers.
+
+----
+
+## Old Author Guidelines
+
 The Identity-Aware AI 2025 workshop will adhere to the ECAI policies and guidelines for submission, review, and citation. Submissions should:
 
 - __Be relevant__: Submissions to Identity-Aware AI 2025 should be relevant to the workshop themes and topics.
@@ -56,4 +76,6 @@ The style guidelines are specified under Submission Guidelines in the [Call for 
 ## Paper Submission
 
 Submission will be through OpenReview: [https://openreview.net](https://openreview.net). The submission link will be announced soon.
+
+
 
