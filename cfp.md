@@ -68,7 +68,7 @@ We are committed to ensuring that our workshop is accessible to all. The worksho
 ## Important Dates
 - Submissions: 29 August 
 - Notifications: 26 September
-- Camera-ready: 3 October 
+- Camera-ready: 17 October 
 - Workshop: 25 October 
 
 ## Diversity & Inclusion
