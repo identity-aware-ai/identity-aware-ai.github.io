@@ -10,11 +10,10 @@ order : 1
 ## Camera-Ready Submission Guidelines
 
 - __Deadline__: Camera-ready submissions are due by 17 October 2025 (extended).
-- __Template__: All accepted papers must be prepared using the CEUR-WS `ceurart` LaTeX template. Please review the official guidance and requirements here: [CEUR-WS — HOW TO SUBMIT](https://ceur-ws.org/HOWTOSUBMIT.html).
-- __Template link__: Use the provided overleaf link to update your manuscript to the CEUR format: [LaTeX template (ShareLaTeX/Overleaf)](https://sharelatex.gwdg.de/read/rmmhkszmktpm#4301dc).
-- __What to upload__: Submit the following as your camera-ready package via the camera-ready revision on OpenReview:
+- __Template link__: Since we will submit the papers to CEUR-WS, all accepted papers must be prepared using the CEUR-WS `ceurart` LaTeX template. Use the provided overleaf link to update your manuscript to the CEUR format: [LaTeX template (ShareLaTeX/Overleaf)](https://sharelatex.gwdg.de/read/rmmhkszmktpm#4301dc). More information on the template can be found [here](https://ceur-ws.org/HOWTOSUBMIT.html).
+- __What to upload__: Submit the following as your camera-ready package via the camera-ready revision on Easychair:
   - Final paper PDF compiled from the CEUR `ceurart` template.
-  - Signed author agreement as a PDF. The blank form is available in this repository at [`agreement.pdf`](/agreement.pdf). One signed agreement per paper is required.
+  - Signed author agreement as a PDF. The blank form is available in this repository at [agreement.pdf](/agreement.pdf). One signed agreement per paper is required.
 - __Checklist before uploading__:
   - Verify authors, affiliations, title, and abstract are final and correct.
   - Ensure the paper compiles without errors and all fonts are embedded in the PDF.
