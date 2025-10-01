@@ -10,7 +10,7 @@ order : 1
 
 ## Camera-Ready Submission Guidelines
 
-- __Deadline__: Camera-ready submissions are due by 17 October 2025 (extended).
+- __Deadline__: Camera-ready submissions are due by 17 October 2025 (extended). You can use an extra page to address the reviewers' comments.
 - __Template link__: Since we will submit the papers to CEUR-WS, all accepted papers must be prepared using the CEUR-WS `ceurart` LaTeX template. Use the provided overleaf link to update your manuscript to the CEUR format: [LaTeX template (ShareLaTeX/Overleaf)](https://sharelatex.gwdg.de/read/rmmhkszmktpm#4301dc). More information on the template can be found [here](https://ceur-ws.org/HOWTOSUBMIT.html).
 - __What to upload__: Submit the following as your camera-ready package via the camera-ready revision on Easychair:
   - Final paper PDF compiled from the CEUR `ceurart` template.
