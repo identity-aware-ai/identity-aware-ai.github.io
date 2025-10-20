@@ -28,13 +28,6 @@ Contact us via email at [identity-aware-ai@googlegroups.com](mailto:identity-awa
 
 ---
 
-## Important Dates
-- Submissions: 29 August (extended)
-- Notifications: 26 September
-- Camera-ready: 17 October 
-- Workshop: 25 October 
-
----
 
 ## Program Details
 
@@ -43,14 +36,30 @@ Contact us via email at [identity-aware-ai@googlegroups.com](mailto:identity-awa
 | Start | End | Activity | Duration |
 |-------|-----|----------|----------|
 | 14:00 | 14:10 | Introduction | 00:10 |
-| 14:10 | 14:50 | Keynote 1 | 00:40 |
+| 14:10 | 14:50 | Keynote by Roberta Calegari | 00:40 |
 | 14:50 | 15:30 | Poster session | 00:40 |
 | 15:30 | 16:00 | Coffee break | 00:30 |
 | 16:00 | 16:30 | Poster session continued | 00:30 |
 | 16:30 | 17:10 | Keynote 2 | 00:40 |
 | 17:10 | 17:30 | Virtual presentations + Conclusions | 00:20 |
 
-### Keynote Speakers
+## Venue
+
+**Room 0.4, Engineering School, University of Bologna**
+
+### Getting to the Engineering School
+
+**By Bus from Bologna City Center:**
+- Bus numbers: 20, 33, and D
+- Get off at "Porta Saragozza – Risorgimento" (buses no. 20 and D) or at "Porta Saragozza – Villa Cassarini" (bus no. 33)
+
+**By Taxi:**
+- Use the TaxiClick App
+- Check CoTaBo and RadioTaxiCAT (also transport of non-folding wheelchairs for disabled people)
+
+---
+
+## Keynote 1: From Opportunity to Compliance: the AEQUITAS framework for Fair AI by Roberta Calegari
 
 **Professor Roberta Calegari (She/Her)**
 
@@ -62,7 +71,7 @@ Roberta Calegari is a researcher and professor at the Department of Computer Sci
 
 **Website:** [https://apice.unibo.it/xwiki/bin/view/RobertaCalegari/](https://apice.unibo.it/xwiki/bin/view/RobertaCalegari/)
 
-**Professor Andrea Campagner (He/Him)**
+## Keynote 2: Robust Learning Methods for Uncertain Data: from Imprecision to Perspectivism by Andrea Campagner
 
 Andrea Campagner is a Tenure Track Assistant Professor at University of Milano-Bicocca. Previously, he was a Researcher at IRCSS Ospedale Galeazzi Sant'Ambrogio. His research focuses on uncertainty management, machine learning, human-AI interaction, and medical informatics. His research has received international recognition, including the EurAI Best Dissertation Award, the ACM SIGCHI Gary Marsden and IJAR Early Career Researcher awards. He is Associate Editor of the International Journal of Approximate Reasoning, International Journal of Medical Informatics and Soft Computing journal.
 
@@ -71,6 +80,46 @@ Andrea Campagner is a Tenure Track Assistant Professor at University of Milano-B
 **Abstract:** The representation, quantification and management of uncertainty is a central problem in Artificial Intelligence, and particularly so in Machine Learning (ML). Among different forms of uncertainty, imprecision, that is the problem of dealing with imperfect and incomplete data, has recently attracted interest in the research community, for its implications on ML practice. The talk will focus on the problem of dealing with imprecision in ML, how to formally represent and study learning from imprecise data problems. The talk will then describe the connections between imprecision and preference modeling, discussing the relationships between uncertainty modeling and perspectivism, a recently proposed framework to manage data annotations in crowdsourcing-based ML.
 
 **Website:** [https://andreacampagner.github.io/](https://andreacampagner.github.io/)
+
+## Posters
+
+1. **A Fair and Personalized Dementia Prediction Framework Using Longitudinal and Demographic Data from South Korea**
+   - Hong-Woo Chun, Lee-Nam Kwon, Hyeonho Shin, Sungwha Hong and Jae-Min Lee
+
+2. **MetaRAG: Metamorphic Testing for Hallucination Detection in RAG Systems**
+   - Channdeth Sok, David Luz and Yacine Haddam
+
+3. **Political Bias in Large Language Models: A Case Study on the 2025 German Federal Election**
+   - Buket Kurtulus and Anna Kruspe
+
+4. **Identity by Design? Evaluating Gender Conditioning in LLM-Generated Agent Identity Profiles**
+   - Mattia Rampazzo, Saba Ghanbari Haez, Patrizio Bellan, Simone Magnolini, Leonardo Sanna and Mauro Dragoni
+
+5. **Testing LLMs' Sensitivity to Sociodemographics in Offensive Speech Detection**
+   - Lia Draetta, Soda Marem Lo, Samuele D'Avenia, Valerio Basile and Rossana Damiano
+
+6. **IntersectionRE: Mitigating Intersectional Bias in Relation Extraction Through Coverage-Driven Augmentation**
+    - Amirhossein Layegh, Amir H. Payberah and Mihhail Matskin
+
+7. **Identity-Aware Large Language Models require Cultural Reasoning**
+    - Alistair Plum, Anne-Marie Lutgen, Christoph Purschke and Achim Rettinger
+
+8. **Neurodiversity Aware or Hyperaware AI? Visual Stereotypes of Autism Spectrum in Janus-Pro-7B, DALL-E, Stable Diffusion, SDXL, FLUX, and Midjourney**
+    - Maciej Wodziński, Marcin Rządeczka, Anastazja Szuła, Kacper Dudzic and Marcin Moskalewicz
+
+9. **Trustworthy AI Through Dual-Role Reasoning: Ethical, Legal, and Psychological Internal Critique**
+    - Chengheng Li Chen, Antonio Lobo Santos, Marc Serramià Amorós and Maite López Sánchez
+
+## Virtual Presentations
+
+1. **From Perceived Effectiveness to Measured Impact: Identity-Aware Evaluation of Automated Counter-Stereotypes**
+   - Svetlana Kiritchenko, Anna Kerkhof, Isar Nejadgholi and Kathleen Fraser
+
+2. **Who are you, ChatGPT? Personality and Demographic Style in LLM-Generated Content**
+   - Dana Sotto and Ella Rabinovich
+
+3. **On the Interplay between Musical Preferences and Personality through the Lens of Language**
+   - Eliran Shem Tov and Ella Rabinovich
 
 ---
 
