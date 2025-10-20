@@ -40,7 +40,7 @@ Contact us via email at [identity-aware-ai@googlegroups.com](mailto:identity-awa
 | 14:50 | 15:30 | Poster session | 00:40 |
 | 15:30 | 16:00 | Coffee break | 00:30 |
 | 16:00 | 16:30 | Poster session continued | 00:30 |
-| 16:30 | 17:10 | Keynote 2 | 00:40 |
+| 16:30 | 17:10 | Keynote by Andrea Campagner | 00:40 |
 | 17:10 | 17:30 | Virtual presentations + Conclusions | 00:20 |
 
 ## Venue
@@ -61,7 +61,7 @@ Contact us via email at [identity-aware-ai@googlegroups.com](mailto:identity-awa
 
 ## Keynote 1: From Opportunity to Compliance: the AEQUITAS framework for Fair AI by Roberta Calegari
 
-**Professor Roberta Calegari (She/Her)**
+**Roberta Calegari (She/Her)**
 
 Roberta Calegari is a researcher and professor at the Department of Computer Science and at the Alma Mater Research Institute for Human-Centered Artificial Intelligence at the University of Bologna. Her research field is related to trustworthy and explainable systems, distributed intelligent systems, software engineering, multi-paradigm languages and AI & law. She is the coordinator of the project Horizon Europe 2020 (G.A. 101070363) about Assessment and engineering of equitable, unbiased, impartial and trustworthy AI systems. The project aims to provide an experimentation playground to assess and repair bias in AI. She has been part of the EU Horizon 2020 Project "PrePAI" (G.A. 101083674) working on the definition of requirements and mechanisms that ensure all resources published on the future AIonDemand platform can be labelled as trustworthy and in compliance with the future AI regulatory framework. Her research interests lie within the broad area of knowledge representation and reasoning in AI for trustworthy and explainable AI and in particular focus on symbolic AI including computational logic, logic programming, argumentation, logic-based multi-agent systems, non-monotonic/defeasible reasoning. She is Member of the Editorial Board of ACM Computing Surveys for the area of Artificial Intelligence. She is the author of more than 90 papers in peer-reviewed international conferences and journals. She is leading many European, Italian and regional projects and she is responsible for collaborations with industries.
 
@@ -72,6 +72,8 @@ Roberta Calegari is a researcher and professor at the Department of Computer Sci
 **Website:** [https://apice.unibo.it/xwiki/bin/view/RobertaCalegari/](https://apice.unibo.it/xwiki/bin/view/RobertaCalegari/)
 
 ## Keynote 2: Robust Learning Methods for Uncertain Data: from Imprecision to Perspectivism by Andrea Campagner
+
+**Andrea Campagner (he/him)**
 
 Andrea Campagner is a Tenure Track Assistant Professor at University of Milano-Bicocca. Previously, he was a Researcher at IRCSS Ospedale Galeazzi Sant'Ambrogio. His research focuses on uncertainty management, machine learning, human-AI interaction, and medical informatics. His research has received international recognition, including the EurAI Best Dissertation Award, the ACM SIGCHI Gary Marsden and IJAR Early Career Researcher awards. He is Associate Editor of the International Journal of Approximate Reasoning, International Journal of Medical Informatics and Soft Computing journal.
 
