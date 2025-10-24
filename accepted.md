@@ -44,6 +44,8 @@ As artificial intelligence advances, systems are increasingly capable of simulat
 
 Early prediction of dementia is a critical public health challenge, yet conventional machine learning models often treat all patients as a single, uniform population. This approach overlooks subtle clinical differences between individuals and can lead to biased predictions that disproportionately affect specific demographic groups. This study proposes a novel framework that leverages the power of a Large Language Model (LLM) to build a fair and personalized dementia prediction system. While traditional methods required separate modeling for men and women, the LLM, thanks to its reasoning capabilities, can perform customized predictions using all data without the need for such separate modeling. We show that providing an LLM with specific demographic context, such as gender, leads to more nuanced and accurate predictive results than a generic, non-contextual prompt. This approach demonstrates that LLMs can be a powerful tool for developing personalized medical AI systems that respect individual differences and mitigate algorithmic bias.
 
+[Pre-proceedings PDF](https://drive.google.com/file/d/1329Yi8XGsW4U9za38a9Be1zA4NaDaFw3/view?usp=drive_link)
+
 ---
 
 ## 3. From Perceived Effectiveness to Measured Impact: Identity-Aware Evaluation of Automated Counter-Stereotypes
