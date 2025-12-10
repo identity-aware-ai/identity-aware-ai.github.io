@@ -9,7 +9,7 @@ order : 1
 ## Ethical and Technical Challenges for Identity-Aware AI
 Workshop at LREC 2026, Palma de Mallorca, Spain, May 11-16, 2026
 
-Workshop theme: What makes each of us unique, and which ethical and technical challenges does this imply?
+**Workshop theme: What makes each of us unique, and which ethical and technical challenges does this imply?**
 
 ## Overview
 What makes us unique? Language (and thus the automatic processing of it) is about people and what they mean. However, current practice relies on the assumptions that the involved humans are all the same, and that if enough data (and compute power) is present, the resulting generalizations will be robust enough and represent the majority.
@@ -35,7 +35,7 @@ We invite submissions on the following topics:
 
 * **Accountability of AI in the eye of the general public:** The role of LLMs, and the responsibilities of AI and NLP developers for ethical use of identities.
 
-* **Identity-aware evaluation**: Community informed bias evaluation and auditing. Human evaluation of LLMs and other AI systems in an identity-aware manner.
+* **Identity-aware and community informed evaluation and auditing**: Community informed bias evaluation and auditing. Human evaluation of LLMs and other AI systems in an identity-aware manner.
 
 ## Submission Types
 We welcome the following types of submissions:
