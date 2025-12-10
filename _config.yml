@@ -20,10 +20,10 @@ theme: jekyll-theme-cayman
 # Site Settings
 locale                   : "en"
 baseurl                  : ""
-title                    : "Identity-Aware AI 2025"
+title                    : "Identity-Aware AI 2026"
 title_separator          : "-"
 name                     : "IdentityAwareAI"
-description              : "In conjunction with ECAI 2025" 
+description              : "In conjunction with LREC 2026" 
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:

@@ -1,6 +1,6 @@
-# Identity-Aware AI 2025 Workshop Website
+# Identity-Aware AI 2026 Workshop Website
 
-This repository contains the website for the Identity-Aware AI 2025 Workshop, to be held in conjunction with ECAI 2025.
+This repository contains the website for the Identity-Aware AI 2026 Workshop, to be held in conjunction with LREC 2026.
 
 ## Website Structure
 

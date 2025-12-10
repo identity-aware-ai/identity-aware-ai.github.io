@@ -12,7 +12,7 @@ __A:__ Yes, non-archival papers may be submitted to other venues in the future.
 __A:__ Yes, the paper can still be published in the proceedings. We will offer remote presentation options for authors who cannot attend in person.
 
 #### Q: What are the formatting guidelines for submissions?
-__A:__ All submissions should follow the ECAI formatting guidelines. Long papers can be up to 8 pages (excluding references), short papers and position papers up to 4 pages (excluding references).
+__A:__ All submissions should follow the LREC 2026 formatting guidelines available at: https://lrec2026.info/authors-kit/. Papers should be 4-8 pages in length (excluding references) and must include ethics and limitations sections. NO appendices are allowed.
 
 #### Q: Do I need to anonymize my submission?
 __A:__ Yes, all submissions will be double-blind reviewed, so please ensure your paper is properly anonymized.
