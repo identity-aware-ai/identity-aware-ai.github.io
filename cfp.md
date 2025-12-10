@@ -14,7 +14,7 @@ Workshop theme: What makes each of us unique, and which ethical and technical ch
 ## Overview
 What makes us unique? Language (and thus the automatic processing of it) is about people and what they mean. However, current practice relies on the assumptions that the involved humans are all the same, and that if enough data (and compute power) is present, the resulting generalizations will be robust enough and represent the majority.
 
-This approach often harms marginalized communities and ignores the notion of identity in models and systems. Our interdisciplinary workshop aims to raise the question of "what makes each of us unique?" to the AI community. We seek to gather researchers from diverse fields to understand how the identities of all stakeholders — e.g., the individuals projecting their views in texts, the individuals perceiving the texts, the individuals mentioned and those not mentioned in the texts — should be considered in future research in AI and NLP.
+This approach often harms marginalized communities and ignores the notion of identity in models and systems. Our interdisciplinary workshop aims to raise the question of "what makes each of us unique?" to the AI community. We seek to gather researchers from diverse fields to understand how the identities of all stakeholders, e.g., the individuals projecting their views in texts, the individuals perceiving the texts, the individuals mentioned and those not mentioned in the texts, should be considered in future research in AI and NLP.
 
 ## Workshop Goals
 - The development of a shared and interdisciplinary understanding of identities and how identity is treated in AI
@@ -88,14 +88,6 @@ We are committed to ensuring that our workshop is accessible to all. The worksho
 ## Diversity & Inclusion
 We actively encourage submissions from underrepresented communities and countries. The workshop organizers will provide mentorship and thorough feedback, especially to first-time authors and reviewers.
 
-## Organizers
-- Pranav A (University of Hamburg)
-- Valerio Basile (University of Turin)
-- Neele Falk (University of Stuttgart)
-- David Jurgens (University of Michigan)
-- Gabriella Lapesa (GESIS, Leibniz Institute for the Social Sciences & Heinrich-Heine University of Düsseldorf)
-- Anne Lauscher (University of Hamburg)
-- Soda Marem Lo (University of Turin)
 
 ## Contact
 For queries, please contact: [identity-aware-ai@googlegroups.com](mailto:identity-aware-ai@googlegroups.com)
