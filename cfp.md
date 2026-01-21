@@ -40,8 +40,7 @@ We invite submissions on the following topics:
 ## Submission Types
 We welcome the following types of submissions:
 
-* **Long papers:** 4-8 pages of content (excluding references)
-* **Short papers:** 4-8 pages of content (excluding references)
+* **Archival workshop papers:** **4 to 8 pages** in length, excluding acknowledgements, references, and (optional) Ethics Statement and Limitations sections
 * **Non-archival submissions, student project presentations, mixed-media submissions**
 
 For non-archival submissions, we welcome creative formats including:
@@ -60,19 +59,24 @@ For creative format submissions, please submit a PDF containing:
 - Any additional context or documentation
 
 ## Submission Guidelines
-* All submissions will be double-blind reviewed
-* Submissions should follow LREC 2026 formatting guidelines available at: [https://lrec2026.info/authors-kit/](https://lrec2026.info/authors-kit/)
-* Papers must be 4-8 pages in length (excluding references)
-* Papers must include **ethics and limitations sections**
-* **NO appendices are allowed**
-* Submission link will be provided in the Second Call for Papers
-* Accepted papers will be published in the workshop proceedings
+* **Formatting:** submissions must follow the LREC stylesheet (see the LREC 2026 Author’s Kit): [https://lrec2026.info/authors-kit/](https://lrec2026.info/authors-kit/)
+* **Length:** submissions must be **4 to 8 pages**, excluding acknowledgements, references, and (optional) Ethics Statement and Limitations sections
+* **Ethics Statement and Limitations:** we strongly encourage including both. They **will not be counted** toward the page limit. If included, place them **after the conclusion**.
+* **Appendices / supplementary material:**
+  * **Initial submission:** not permitted (papers must be self-contained and reviewable on their own)
+  * **Camera-ready version:** permitted; each camera-ready paper may include an appendix of up to **10 pages**
+* **Double-blind review:** all submissions will be double-blind reviewed and must be **fully anonymized** (remove author names/affiliations and avoid links to non-anonymized repositories; if needed, use an anonymized repository)
+* **Originality and simultaneous submissions:** submissions must be original, previously unpublished work. If a paper is submitted to or under consideration at another venue at the same time, this must be declared at submission time. If accepted here, it must be withdrawn from other venues; if accepted elsewhere while under review here, please notify us promptly.
+* **Preprints:** there is **no anonymity period** at LREC 2026, so authors may post preprints at any time; however, the version submitted for review **must still be anonymized**
+* **Language resources (optional):** at submission time, authors may share related language resources with the community; repository entries are linked to the **LRE Map** and provide metadata for the resource
+* **Submission site:** [https://softconf.com/lrec2026/IdentityAwareAI](https://softconf.com/lrec2026/IdentityAwareAI)
+* **Proceedings and presentation:** accepted papers will appear in the workshop proceedings. All accepted papers will be presented as **posters**. For remote participants, we will also organize a **lightning round** of short virtual presentations to accompany the posters.
 
 ## Workshop Format
 The workshop will be a half-day event featuring:
 
 - Keynote speeches from leading experts in the field
-- Paper presentations (oral and lightning talks)
+- Poster session for accepted papers, plus a lightning round for virtual talks
 - Participatory design activity to develop a shared interdisciplinary vocabulary, identify current gaps in datasets for studying identity, and design a vision for collecting new datasets
 
 We are committed to ensuring that our workshop is accessible to all. The workshop will be held in a hybrid format, allowing both in-person and virtual participation.
@@ -83,7 +87,7 @@ We are committed to ensuring that our workshop is accessible to all. The worksho
 * **Submission Deadline:** February 20, 2026
 * **Notification of Acceptance:** March 20, 2026
 * **Camera-Ready Deadline:** March 30, 2026
-* **Workshop Date:** May 16, 2026, Morning (exact date TBA)
+* **Workshop Date:** During LREC 2026 (May 11-16, 2026); exact half-day slot TBA
 
 ## Diversity & Inclusion
 We actively encourage submissions from underrepresented communities and countries. The workshop organizers will provide mentorship and thorough feedback, especially to first-time authors and reviewers.
