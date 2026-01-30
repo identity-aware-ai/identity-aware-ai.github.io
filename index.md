@@ -11,7 +11,7 @@ order: 1
 
 The Identity-Aware AI 2026 workshop will be held in conjunction with **[LREC 2026](https://lrec2026.info/)** in **Palma de Mallorca, Spain, May 11-16, 2026**. 
 
-Workshop Date: **During LREC 2026 (May 11-16, 2026); exact half-day slot TBA**
+Workshop Date: **During LREC 2026: Morning of May 16, 2026**
 
 It is a forum to bring together researchers from diverse fields to understand how the identities of all stakeholders should be considered in future research in AI and NLP.
 
