@@ -61,8 +61,8 @@ Submission link will be provided in the Second Call for Papers. All papers shoul
 
 ## Important Dates
 
-* **Submission Deadline:** February 20, 2026
-* **Notification of Acceptance:** March 20, 2026
+* **Submission Deadline:** February 25, 2026
+* **Notification of Acceptance:** March 25, 2026
 * **Camera-Ready Deadline:** March 30, 2026
 * **Workshop Date:** May 16, 2026
 
