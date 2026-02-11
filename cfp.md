@@ -84,8 +84,8 @@ We are committed to ensuring that our workshop is accessible to all. The worksho
 ## Important Dates
 **All deadlines are 11:59 PM AoE (Anywhere on Earth)**
 
-* **Submission Deadline:** February 20, 2026
-* **Notification of Acceptance:** March 20, 2026
+* **Submission Deadline:** February 25, 2026
+* **Notification of Acceptance:** March 25, 2026
 * **Camera-Ready Deadline:** March 30, 2026
 * **Workshop Date:** During LREC 2026 (May 11-16, 2026); exact half-day slot TBA
 
