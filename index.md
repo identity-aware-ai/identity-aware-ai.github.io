@@ -53,11 +53,32 @@ See the **[Call for Papers](/cfp)** for full details. In brief:
 
 ---
 
+## Program
+
+**Friday, May 16, 2026** — Palma de Mallorca, Spain, **Room 13**
+
+| Time | Event |
+|------|-------|
+| 9:00 – 9:10 | **Introduction** — A Pranav |
+| 9:10 – 10:15 | **Paired Keynote** — Rossana Damiano and Samuel Goree |
+| 10:15 – 11:15 | **Poster Session & Coffee Break** — see [Accepted Papers](/accepted_papers) |
+| 11:15 – 12:00 | **Keynote** — Debora Nozza |
+| 12:00 – 12:50 | **Virtual Presentations** |
+| 12:50 – 13:00 | **Conclusion** — A Pranav |
+
+### Keynote: Debora Nozza
+
+**A Roadmap for the Everyday Use of LLMs: Emerging Risks and Research Directions**
+
+Large Language Models (LLMs) are increasingly part of everyday life, shaping how people seek information, advice, and guidance. This rapid shift raises new challenges that extend beyond traditional NLP benchmarks, particularly as interactions with LLMs are not identity-neutral and can vary across users' social and cultural backgrounds. As a result, models can influence decisions, beliefs, and perceptions in subtle but powerful, and sometimes uneven, ways. In this talk, I will reflect on recent research and ongoing work aimed at identifying these challenges and exploring how we can design LLMs that foster safer, more trustworthy, and more pluralistic interactions.
+
+---
+
 ## Venue
 
-**Palma de Mallorca, Spain**
+**Palma de Mallorca, Spain — Room 13**
 
-The workshop will be held in conjunction with LREC 2026 in Palma de Mallorca, Spain. Exact date/time slot, room, and venue details will be announced closer to the conference date.
+The workshop will be held in conjunction with LREC 2026 in Palma de Mallorca, Spain.
 
 More information about the main conference: [https://lrec2026.info/](https://lrec2026.info/)
 
